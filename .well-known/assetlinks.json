@@ -2,8 +2,10 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
-    "sha256_cert_fingerprints":
-    ["C2:48:3F:78:B1:C8:59:C8:5D:B4:15:B7:52:59:D3:91:F3:FA:2A:7A:6C:25:2F:DC:75:52:D4:49:19:50:46:20"]
+    "package_name": "com.rubysparklabs.zooroom.debug",
+    "sha256_cert_fingerprints":[
+      "EF:3E:F4:06:60:B0:8D:E0:20:E1:EF:04:36:CC:B7:48:26:48:B0:19:D6:A9:0C:EE:24:A3:DA:FD:19:AB:B9:E0",
+      "C2:48:3F:78:B1:C8:59:C8:5D:B4:15:B7:52:59:D3:91:F3:FA:2A:7A:6C:25:2F:DC:75:52:D4:49:19:50:46:20"
+    ]
   }
 }]
