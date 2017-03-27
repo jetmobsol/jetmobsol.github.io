@@ -2,7 +2,7 @@
 
 DEV
 
-[a link] (https://sz02.test-app.link/0aRdqFozIB?roomName=testdga)
+[a link](https://sz02.test-app.link/0aRdqFozIB?roomName=testdga)
 
 http://zooroom.chat/idev/testdga
 
