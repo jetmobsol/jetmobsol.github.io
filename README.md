@@ -2,6 +2,8 @@
 
 DEV
 
+<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
+
 [a link](https://sz02.test-app.link/0aRdqFozIB?roomName=testdga)
 
 http://zooroom.chat/idev/testdga
