@@ -6,6 +6,8 @@ DEV
 
 [http://zooroom.chat/idev/testdga](http://zooroom.chat/idev/testdga)
 
+[http://zooroom.chat/idev/testdga/errorlink](http://zooroom.chat/idev/testdga/errorlink)
+
 
 
 PROD     
